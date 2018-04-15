@@ -17,6 +17,7 @@
   "dependencies": {
     "console.table": "^0.10.0",
     "csvtojson": "^1.1.9",
+    "linebyline": "^1.3.0",
     "ml-regression": "^4.4.2"
   }
 }
