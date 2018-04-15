@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "My first machine learning project. This project follows \"Machine Learning with JavaScript\" series on Hacker Noon.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "beginner",
     "javascript",
@@ -16,6 +15,7 @@
   "author": "John Desrosiers",
   "license": "MIT",
   "dependencies": {
+    "console.table": "^0.10.0",
     "csvtojson": "^1.1.9",
     "ml-regression": "^4.4.2"
   }
