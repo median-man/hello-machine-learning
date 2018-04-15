@@ -4,6 +4,10 @@
   "description": "My first machine learning project. This project follows \"Machine Learning with JavaScript\" series on Hacker Noon.",
   "main": "index.js",
   "scripts": {},
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/median-man/hello-machine-learning.git"
+  },
   "keywords": [
     "beginner",
     "javascript",
