@@ -15,5 +15,9 @@
     "nodejs"
   ],
   "author": "John Desrosiers",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "ml-regression": "^4.4.2"
+  }
 }
