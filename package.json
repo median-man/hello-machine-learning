@@ -15,7 +15,6 @@
   "author": "John Desrosiers",
   "license": "MIT",
   "dependencies": {
-    "console.table": "^0.10.0",
     "csvtojson": "^1.1.9",
     "ml-regression": "^4.4.2"
   }
