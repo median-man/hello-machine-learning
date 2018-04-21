@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "My first machine learning project. This project follows \"Machine Learning with JavaScript\" series on Hacker Noon.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "knn": "node knn/index.js",
+    "slr": "node ./slr/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/median-man/hello-machine-learning.git"
