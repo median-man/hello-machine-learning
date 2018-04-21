@@ -2,8 +2,9 @@ const ml = require('ml-regression');
 const csv = require('csvtojson');
 const { SLR } = ml; // Simple Linear Regression
 const readline = require('readline');
+const path = require('path');
 
-const csvFilePath = 'advertising.csv';
+const csvFilePath = path.join(__dirname, 'advertising.csv');
 
 let csvData = [];
 let x = [];
